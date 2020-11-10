@@ -15,7 +15,7 @@
 ## Deployment to Heroku
 iCopy Version - v0.2.2 (No Web DashBoard Only Bot)
  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/darkinkyu/test-buk/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Jacky-lei1/test-buk)
 
 iCopy Version - v0.2.2 (Only Web DashBoard)(NOT SUPPORT)
  
