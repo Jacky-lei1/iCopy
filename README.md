@@ -10,16 +10,16 @@
 [![Stars](https://img.shields.io/github/stars/Nenokkadine/FClone-Bot?style=flat-square&logo=appveyor)](https://github.com/Nenokkadine/FClone-Bot)  
 
 ## Running it Google Colab
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jacky-lei1/test-buk/blob/master/iCopy.ipynb) 
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jacky-lei1/iCopy/blob/master/iCopy.ipynb) 
  
 ## Deployment to Heroku
 iCopy Version - v0.2.2 (No Web DashBoard Only Bot)
  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Jacky-lei1/test-buk)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Jacky-lei1/iCopy)
 
 iCopy Version - v0.2.2 (Only Web DashBoard)(NOT SUPPORT)
  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Jacky-lei1/test-buk)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Jacky-lei1/iCopy)
 
 Deploy Both If U wanna Use Web Dashboard and use the same config vars for Web one as the Bot one.
 
